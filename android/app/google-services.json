@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944073900173",
+    "project_id": "health-information-17152",
+    "storage_bucket": "health-information-17152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944073900173:android:72b21bfc8c6539b648e2c4",
+        "android_client_info": {
+          "package_name": "com.example.fun_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944073900173-1k70g8lcqosqbf5akk886nkd1nt4mdhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvooyEzglw7e7eFhmtIbNb163pGYdp2iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944073900173-1k70g8lcqosqbf5akk886nkd1nt4mdhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
